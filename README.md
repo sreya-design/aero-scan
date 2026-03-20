@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 An end-to-end computer vision pipeline that detects and classifies aircraft in aerial and satellite imagery. Built with YOLO26 for detection and EfficientNet-B0 for fine-grained aircraft type classification.
+Live at : https://aero-scan-ngx4fyksjrs6dwc9kmlg9u.streamlit.app/
 
 ---
 
@@ -25,7 +26,8 @@ Upload any aerial or satellite image of an airport and AeroScan will:
 |---|---|
 | Satellite image of airport | Annotated image with bounding boxes + aircraft type labels |
 
-> **Tip:** Screenshot Google Maps in satellite mode over JFK, Heathrow, or Mumbai Airport for best results.
+<img width="716" height="699" alt="image" src="https://github.com/user-attachments/assets/5a2c2e47-202b-4349-a3c6-b96860ae754d" />
+
 
 ---
 
